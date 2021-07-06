@@ -1,1 +1,1 @@
-# crossyroad-2g
+# crossy-road-2
